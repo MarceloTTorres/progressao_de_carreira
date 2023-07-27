@@ -1,0 +1,27 @@
+.btn{
+    color: white;
+    font-size: 20px;
+}
+
+.form-control{
+    font-size: 20px;
+}
+
+.material-symbols-outlined{
+    font-size: 50px;
+    text-decoration: none;
+    color: #7B68EE;
+}
+
+.casa{
+    font-size: 10px;
+    color: black;
+}
+
+.casa1{
+    color: #7B68EE;
+    font-size: 45px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 300px;
+}
+
